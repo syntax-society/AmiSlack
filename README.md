@@ -1,3 +1,5 @@
+Please note this is not a finished project!
+
 # AmiSlack
 An open source Slack client for AmigaOS and alikes
 
